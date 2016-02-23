@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-__author__ = 'Jonas Gröger <jonas.groeger@gmail.com>'
+__author__ = 'Jonas Gröger <jonas.groeger@posteo.de>'
 
 
 import argparse
